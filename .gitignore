@@ -2,6 +2,20 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
+
+### Compiled class files ###
+*.class
+
+### Maven and Gradle files ###
+target/
+build/
+.gradle/
+.m2/
+
+### Mac OS ###
+**/.DS_Store
 
 ### Eclipse ###
 .apt_generated
@@ -24,9 +38,3 @@ bin/
 
 ### VS Code ###
 .vscode/
-
-### Mac OS ###
-.DS_Store
-
-**/*.iml
-**/*.xml
