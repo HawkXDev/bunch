@@ -1,3 +1,5 @@
+package main;
+
 /**
  * Pattern Null Object
  */
